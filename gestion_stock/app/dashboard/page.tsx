@@ -24,9 +24,9 @@ import {
   SelectTrigger,
   SelectValue,
 } from "@/components/ui/select";
-import SideNav from "@/components/side-nav";
-import StatCard from "@/components/stat-card";
-import ChartCard from "@/components/chart-card";
+import SideNav from "@/components/side_nav";
+import StatCard from "@/components/stat_card";
+import ChartCard from "@/components/chart_card";
 
 // Mock data for statistics
 const mockJobOrders = [
